@@ -21,13 +21,13 @@ class App extends Component {
     };
   }
 //============================end experimental code block================
-  render() {
+    render() {
     return (
       <div className='wrapper'>
             <GlobalAudio/>
           {/* <User name="Jessica Doe" email="hello@jessica.com" />; */}
         <div className='worldMap visible'>
-            <World />
+                <World key={this.state.name} />
         </div>
         <div>
             {/* <BattleMenuDisplay /> */}
