@@ -11,7 +11,7 @@ Action keys will be direction arrows, along with:
 
 * 'U' for use item/interract with item tile on map screen
 
-* 'enter' key or clicking on options with mouse will engage user's choice.
+* 'enter' key or clicking on options with mouse will engage user's choice.--Feature not implimented yet
 
 
 ## NPM packages used:
