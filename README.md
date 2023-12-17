@@ -1,5 +1,5 @@
 #  Neo Dragon Warrior (React-redux)
-Reskin of the original Dragon Warrior games for NES.
+Reskin twist of the original Dragon Warrior game series for NES.
 Basics of game remain similar, with improvements for the nostalgic kept to a minimum. 
 
 ![alt text](https://github.com/Hibbarcd/neoDragonWarrior/public/logo.png "MidgaardSoft Inc.")
@@ -12,21 +12,6 @@ Action keys will be direction arrows, along with:
 * 'U' for use item/interract with item tile on map screen
 
 * 'enter' key or clicking on options with mouse will engage user's choice.--Feature not implimented yet
-
-
-## NPM packages used:
-
-* mysql2
-* axios
-* express
-* react
-* react-dom
-* react-scripts
-* react-redux
-* sequelize
-* redux-sounds
-* redux
-* 
 
 
 ## Available Scripts
