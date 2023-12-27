@@ -48,6 +48,18 @@ export default function handleEnemy(enemy) {
       }
     })
   }
+    //function statsForEnemy(typeSprite, newPos) {
+    //const enemyIndex = getEnemyIndex()
+    //store.dispatch({
+      //type: 'RANDOM_ENEMY',
+     //payload: {
+       // position: newPos,
+       // typeSprite,
+       // enemyIndex,
+        //spriteLocation: getSpriteLocation(typeSprite, enemyIndex),
+      //}
+    //})
+  //}
 
   function displayEnemyTest(typeSprite) {
     const oldPos = store.getState().enemy.position
